@@ -1,0 +1,5 @@
+PolicyTypeID,PolicyTypeName
+1,Term
+2,….Whole Life
+3,Universal Life
+4,Critical Illness//

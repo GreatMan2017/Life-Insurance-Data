@@ -1,0 +1,16 @@
+LocationID,City,Province,Country,Latitude,Longitude,PostalCode
+1,Toronto,Ontario,Canada,43.70,-79.42,M5A 1A1
+2,Mississauga,Ontario,Canada,43.59,-79.64,L5N 2X3
+3,Ottawa,Ontario,Kanada,45.42,-75.69,K1A 0G9
+4,Hamilton,Ontario,Canada,43.26,-79.87,L8P 4V9
+5,London,Ontario,Canada,42.98,-81.25,N6A 1B7
+6,Kitchener,Ontario,Kanada,43.45,-80.49,N2G 1A1
+7,Waterloo,Ontario,Canada,43.47,-80.53,N2L 6R2
+8,Burlington,Ontario,Canada,43.35,-79.80,L7R 3Y5
+9,Markham,Ontario,Canada,43.88,-79.26,L3P 0C6
+10,Oakville,Ontario,Canada,43.45,-79.69,L6H 2Y4
+11,Brampton,Ontario,Canada,43.69,-79.76,L6Y 5S5
+12,Guelph,Ontario,Canada,43.54,-80.25,N1E 0H8
+13,Barrie,Ontario,Canada,44.39,-79.69,L4N 6G2
+14,Windsor,Ontario,Canada,42.31,-83.04,N9A 4J3
+15,Oshawa,Ontario,Canada,43.90,-78.86,L1G 4W8
